@@ -11,7 +11,7 @@ This project involves the collection and analysis of data using Python to genera
 There are three dataset in the data folder: Household Indoor Sensor Measurement Data, SensorID_EPC_Survey_Open_Data, and LIMBO（Weather Station）data. 
 
 ### Household Indoor Sensor Measurement Data
-This folder includes a variety of environmental parameters captured by the Smart Citizen Kits (SCK) sensors, such as air temperature, relative humidity, air quality, noise condition, and light condition.
+This folder includes a variety of environmental parameters captured by the [Smart Citizen Kits (SCK) sensors](https://smartcitizen.me/), such as air temperature, relative humidity, air quality, noise condition, and light condition.
 
 ### SensorID_EPC_Survey_Open_Data
 This csv file includes the ID of the sensor, survey data conducted by TBIJ, [IMD quintiles](https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019), and [existing Energy Performance Certificate (EPC) ratings](https://epc.opendatacommunities.org/domestic/search).
