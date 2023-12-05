@@ -1,11 +1,12 @@
 # Sensor Enhanced Survey Heat Investigation
 
 ## Project Details
+
+This project involves the collection and analysis of data using Python to generate statistical results and plots. It is a collaborative effort between residents of South London, the Bureau of Investigative Journalism (TBIJ), and the University of Glasgow’s Urban Big Data Centre.
+
 __Duration:__ 2023.07.28-2023.09.26 
 
 __Location:__ London Borough of Southwark
-
-This project involves the collection and analysis of data using Python to generate statistical results and plots. It is a collaborative effort between residents of South London, the Bureau of Investigative Journalism (TBIJ), and the University of Glasgow’s Urban Big Data Centre.
 
 ## Data
 There are three dataset in the data folder: Household Indoor Sensor Measurement Data, SensorID_EPC_Survey_Open_Data, and LIMBO（Weather Station）data. We have opened a portion of the survey data in 'SensorID_EPC_Survey_Open_Data' that poses no risk of exposure. Please note that, for a specific section of the analysis in 'Communal heating system' within the 'Analysis_for_UBDC_Report.ipynb' file, the data is not available. While the code cannot run directly, we have showcased the plots and results.
