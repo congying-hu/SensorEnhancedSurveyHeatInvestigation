@@ -3,6 +3,7 @@ This project involves the collection and analysis of data using Python to genera
 
 ## Project Details
 __Duration:__ 2023.07.28-2023.09.26 
+
 __Location:__ London Borough of Southwark
 
 ## Reports
