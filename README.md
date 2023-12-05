@@ -23,3 +23,6 @@ This csv file includes the ID of the sensor, survey data conducted by TBIJ, IMD 
 ### LIMBO (Weather Station) Data
 This csv file contains outdoor weather observation data from the [Met Office](https://wow.metoffice.gov.uk/).
 
+## Data Processing
+
+When generating the plots and conducting the analysis, we used the battery start charge time but delayed it by 1 hour (as participants were told to write down their start time 1 hour after charge) to allow the sensor to settle in the indoor conditions and improve the accuracy of indoor temperature measurements.
