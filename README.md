@@ -1,10 +1,11 @@
 # Sensor Enhanced Survey Heat Investigation
-This project involves the collection and analysis of data using Python to generate statistical results and plots. It is a collaborative effort between residents of South London, the Bureau of Investigative Journalism (TBIJ), and the University of Glasgow’s Urban Big Data Centre.
 
 ## Project Details
 __Duration:__ 2023.07.28-2023.09.26 
 
 __Location:__ London Borough of Southwark
+
+This project involves the collection and analysis of data using Python to generate statistical results and plots. It is a collaborative effort between residents of South London, the Bureau of Investigative Journalism (TBIJ), and the University of Glasgow’s Urban Big Data Centre.
 
 ## Reports
 Find our detailed findings and analysis in the following reports:
