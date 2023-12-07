@@ -10,9 +10,29 @@ __Sensor Measurement Duration:__ 2023.07.28-2023.09.26
 
 __Location:__ London Borough of Southwark
 
+## Project Team
+
+UBDC:
+
+[Qunshan Zhao](https://www.gla.ac.uk/schools/socialpolitical/staff/qunshanzhao/)
+
+[Mark Livingston](https://www.gla.ac.uk/schools/socialpolitical/staff/marklivingston/)
+
+[Congying Hu](https://www.linkedin.com/in/congying-hu/)
+
+[Mingkang Wang](https://www.linkedin.com/in/mingkangwang-glasgow/)
+
+[Yunbei Ou](https://www.ubdc.ac.uk/about-ubdc/who-we-are/team-profiles/phd-students/yunbei-ou/)
+
+TBIJ: 
+
+[Rachel Hamada](https://www.thebureauinvestigates.com/profile/Rachelhamada)
+
+[Paul Eccles](https://www.thebureauinvestigates.com/profile/pauleccles)
+
 ## Data
 
-There are three dataset in the data folder: Household Indoor Sensor Measurement Data, SensorID_EPC_Survey_Open_Data, and LIMBO（Weather Station）data. 
+There are three dataset in the data folder: Household Indoor Sensor Measurement Data, SensorID_EPC_Survey_Open_Data, and LIMBO (Weather Station) data. 
 
 Please note that, for a specific section of the analysis in 'Communal heating system' within the 'Analysis_for_UBDC_Report.ipynb' file, the communal heating data is not yet available. While the code cannot run directly, we have showcased the plots and results.
 
@@ -29,10 +49,11 @@ This csv file contains outdoor weather observation data from the [Met Office](ht
 
 When generating the plots and conducting the analysis, we used the battery start charge time but delayed it by 1 hour (as participants were told to write down their start time 1 hour after charge) to allow the sensor to settle in the indoor environment and this helped improve the accuracy of indoor sensor measurements.
 
-## Reports
-Find our detailed findings and analysis in the following reports:
+## News, Reports, and Resources
+Find our detailed findings and analysis in the following news reports:
 -  __The Bureau of Investigative Journalism (TBIJ):__ [‘Stifling, suffocating, unliveable’: Life in an overheating home](https://www.thebureauinvestigates.com/stories/2023-12-05/stifling-suffocating-unliveable-life-in-a-overheating-home) and [Revealed: escalating effects of hot summers on UK housing](https://www.thebureauinvestigates.com/stories/2023-12-05/revealed-escalating-effects-of-hot-summers-on-uk-housing)
 - __Urban Big Data Centre (UBDC):__ [UBDC data analysis reveals concern for the UK's overheating homes](https://www.ubdc.ac.uk/news-media/2023/december/ubdc-data-analysis-reveals-concern-for-the-uks-overheating-homes/) and [Sensor-enhanced housing survey for urban heat investigation](https://www.ubdc.ac.uk/news-media/2023/december/sensor-enhanced-housing-survey-for-urban-heat-investigation/)
 - __Mirror:__ [UK's overheating summer health crisis as half of UK homes hit 'sauna-like' temperatures](https://www.mirror.co.uk/news/uk-news/uks-overheating-summer-health-crisis-31597681)
 - __University of Glasgow:__ [Data Analysis Reveals Concern for the UK's Overheating Homes](https://www.gla.ac.uk/news/headline_1026834_en.html)
+- __UBDC Research Page:__ [Sensor Enhanced Housing Survey](https://www.ubdc.ac.uk/research/research-projects/urban-sensing-analytics/sensor-enhanced-housing-surveys/)
 
