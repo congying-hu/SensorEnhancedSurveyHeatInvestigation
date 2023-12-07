@@ -14,25 +14,15 @@ __Location:__ London Borough of Southwark
 
 UBDC:
 
-[Qunshan Zhao](https://www.gla.ac.uk/schools/socialpolitical/staff/qunshanzhao/)
-
-[Mark Livingston](https://www.gla.ac.uk/schools/socialpolitical/staff/marklivingston/)
-
-[Congying Hu](https://www.linkedin.com/in/congying-hu/)
-
-[Mingkang Wang](https://www.linkedin.com/in/mingkangwang-glasgow/)
-
-[Yunbei Ou](https://www.ubdc.ac.uk/about-ubdc/who-we-are/team-profiles/phd-students/yunbei-ou/)
+[Qunshan Zhao](https://www.gla.ac.uk/schools/socialpolitical/staff/qunshanzhao/); [Mark Livingston](https://www.gla.ac.uk/schools/socialpolitical/staff/marklivingston/); [Congying Hu](https://www.linkedin.com/in/congying-hu/); [Mingkang Wang](https://www.linkedin.com/in/mingkangwang-glasgow/); [Yunbei Ou](https://www.ubdc.ac.uk/about-ubdc/who-we-are/team-profiles/phd-students/yunbei-ou/)
 
 TBIJ: 
 
-[Rachel Hamada](https://www.thebureauinvestigates.com/profile/Rachelhamada)
-
-[Paul Eccles](https://www.thebureauinvestigates.com/profile/pauleccles)
+[Rachel Hamada](https://www.thebureauinvestigates.com/profile/Rachelhamada); [Paul Eccles](https://www.thebureauinvestigates.com/profile/pauleccles)
 
 ## Data
 
-There are three dataset in the data folder: Household Indoor Sensor Measurement Data, SensorID_EPC_Survey_Open_Data, and LIMBO (Weather Station) data. 
+There are three dataset in the data folder: [Household Indoor Sensor Measurement Data](Data/Household%20Indoor%20Sensor%20Measurement%20Data), [SensorID_EPC_Survey_Open_Data](Data/SensorID_EPC_Survey_Open_Data.csv), and [LIMBO (Weather Station) data](Data/LIMBO.csv). 
 
 Please note that, for a specific section of the analysis in 'Communal heating system' within the 'Analysis_for_UBDC_Report.ipynb' file, the communal heating data is not yet available. While the code cannot run directly, we have showcased the plots and results.
 
