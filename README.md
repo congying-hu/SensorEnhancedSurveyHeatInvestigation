@@ -6,6 +6,8 @@ During the summer months from July 2023 to September 2023 (including a mini heat
 
 In this repository, we include the [project open data](https://data.ubdc.ac.uk/dataset/sensor-enhanced-housing-survey-data-for-urban-heat-investigation) and the python scripts for data analysis and visualisation. This project is a collaborative project between the Bureau of Investigative Journalism (TBIJ) and the University of Glasgow’s Urban Big Data Centre. 
 
+We also published the new [project licensed data](https://data.ubdc.ac.uk/dataset/sensor-safeguarded#) in 2024 and it included more information about participants' building age and insulation conditions from the open EPC datasets.
+
 __Sensor Measurement Duration:__ 2023.07.28-2023.09.26 
 
 __Location:__ London Borough of Southwark
@@ -41,9 +43,11 @@ When generating the plots and conducting the analysis, we used the battery start
 
 ## News, Reports, and Resources
 Find our detailed findings and analysis in the following news reports:
--  __The Bureau of Investigative Journalism (TBIJ):__ [‘Stifling, suffocating, unliveable’: Life in an overheating home](https://www.thebureauinvestigates.com/stories/2023-12-05/stifling-suffocating-unliveable-life-in-a-overheating-home) and [Revealed: escalating effects of hot summers on UK housing](https://www.thebureauinvestigates.com/stories/2023-12-05/revealed-escalating-effects-of-hot-summers-on-uk-housing)
+-  __The Bureau of Investigative Journalism (TBIJ):__ [‘Stifling, suffocating, unliveable’: Life in an overheating home](https://www.thebureauinvestigates.com/stories/2023-12-05/stifling-suffocating-unliveable-life-in-a-overheating-home); [Revealed: escalating effects of hot summers on UK housing](https://www.thebureauinvestigates.com/stories/2023-12-05/revealed-escalating-effects-of-hot-summers-on-uk-housing); [The rising danger of hot summers](https://www.thebureauinvestigates.com/blog/2023-06-30/the-rising-danger-of-hot-summers/); [District heating leaves London residents sweltering during heatwave](https://www.thebureauinvestigates.com/stories/2023-09-11/no-escape-communal-heating-makes-homes-unbearable-during-heatwave/)
+
 - __Urban Big Data Centre (UBDC):__ [UBDC data analysis reveals concern for the UK's overheating homes](https://www.ubdc.ac.uk/news-media/2023/december/ubdc-data-analysis-reveals-concern-for-the-uks-overheating-homes/) and [Sensor-enhanced housing survey for urban heat investigation](https://www.ubdc.ac.uk/news-media/2023/december/sensor-enhanced-housing-survey-for-urban-heat-investigation/)
 - __Mirror:__ [UK's overheating summer health crisis as half of UK homes hit 'sauna-like' temperatures](https://www.mirror.co.uk/news/uk-news/uks-overheating-summer-health-crisis-31597681)
+- __Southwark Council:__ [£1 million of funding to combat flooding and overheating in Southwark](https://www.southwark.gov.uk/news/2024/feb/1-million-of-funding-to-combat-flooding-and-overheating-in-southwark)
+- __Impact on Urban Health:__ [How overheating homes are turning the climate crisis into a health crisis](https://urbanhealth.org.uk/insights/news/overheating-homes-climate-health-crisis)
 - __University of Glasgow:__ [Data Analysis Reveals Concern for the UK's Overheating Homes](https://www.gla.ac.uk/news/headline_1026834_en.html)
 - __UBDC Research Page:__ [Sensor Enhanced Housing Survey](https://www.ubdc.ac.uk/research/research-projects/urban-sensing-analytics/sensor-enhanced-housing-surveys/)
-
